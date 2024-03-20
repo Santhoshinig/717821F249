@@ -1,0 +1,24 @@
+.select-type {
+    width: 100%;
+  }
+  
+  .fetch-btn {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .numbers-header {
+    margin-top: 20px;
+  }
+  
+  .numbers-table {
+    margin-top: 10px;
+  }
+  
+  .average {
+    margin-top: 20px;
+  }
+  .hello{
+      color: green;
+      font-size: 30px;
+  }
